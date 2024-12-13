@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/huda-portfolio/static/css/main.ae379a9b.css",
-    "main.js": "/huda-portfolio/static/js/main.cb3e3fb3.js",
+    "main.js": "/huda-portfolio/static/js/main.7276bf1a.js",
     "static/js/488.20fa55e9.chunk.js": "/huda-portfolio/static/js/488.20fa55e9.chunk.js",
     "static/media/serenade.png": "/huda-portfolio/static/media/serenade.55b6da83e4bf8c0eb392.png",
     "static/media/gitsight.png": "/huda-portfolio/static/media/gitsight.f707501b576185507938.png",
@@ -9,11 +9,11 @@
     "static/media/simplisafe.png": "/huda-portfolio/static/media/simplisafe.3d19f9b48e81995ab152.png",
     "index.html": "/huda-portfolio/index.html",
     "main.ae379a9b.css.map": "/huda-portfolio/static/css/main.ae379a9b.css.map",
-    "main.cb3e3fb3.js.map": "/huda-portfolio/static/js/main.cb3e3fb3.js.map",
+    "main.7276bf1a.js.map": "/huda-portfolio/static/js/main.7276bf1a.js.map",
     "488.20fa55e9.chunk.js.map": "/huda-portfolio/static/js/488.20fa55e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae379a9b.css",
-    "static/js/main.cb3e3fb3.js"
+    "static/js/main.7276bf1a.js"
   ]
 }
