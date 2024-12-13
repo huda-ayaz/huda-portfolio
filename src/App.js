@@ -10,9 +10,9 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/skill-details" element={<SkillDetailsPage />} />
-        <Route path="/project-showcase" element={<ProjectShowcasePage />} />
+        <Route path="/huda-portfolio" element={<HomePage />} />
+        <Route path="/huda-portfolio/skill-details" element={<SkillDetailsPage />} />
+        <Route path="/huda-portfolio/project-showcase" element={<ProjectShowcasePage />} />
       </Routes>
     </Router>
   );
